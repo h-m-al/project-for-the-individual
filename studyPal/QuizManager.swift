@@ -1,3 +1,10 @@
+//
+//  Untitled.swift
+//  studyPal
+//
+//  Created by Guest User on 08/10/2026.
+//
+
 import SwiftUI
 
 // MARK: - Quiz Manager (State Engine)
