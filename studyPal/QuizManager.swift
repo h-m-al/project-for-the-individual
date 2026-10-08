@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+public import Combine
 
 // MARK: - Quiz Manager (State Engine)
 /// `QuizManager` uses the `ObservableObject` protocol to broadcast state changes across all views.
